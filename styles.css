@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  background-color: #bdc7c9;
+}
+
+h1 {
+  font-size: 5rem;
+  color: green;
+  font-family: sans-serif;
+  text-shadow: 3px 0 yellow;
+
+}
+
+footer {
+  color: #000;
+  font-family: sans-serif;
+}
+
+.a {
+  background-image: url("images/end-left.png");
+}
+
+.s {
+  background-image: url("images/mid.png");
+}
+
+.d {
+  background-image: url("images/mid.png");
+}
+
+.f {
+  background-image: url("images/mid.png");
+}
+
+.g {
+  background-image: url("images/mid.png");
+}
+
+.h {
+  background-image: url("images/mid.png");
+}
+
+.j {
+  background-image: url("images/end-right.png");
+}
+
+.set {
+  margin: 10% auto;
+  font-size: 0;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  background-image: url("images/mid-clicked.png");
+}
+
+.pressed2 {
+  background-image: url("images/end-left-clicked.png");
+}
+
+.pressed3 {
+  background-image: url("images/end-right-clicked.png");
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: none;
+  font-size: 0;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  background-color: #bdc7c9;
+}
